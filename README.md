@@ -1,6 +1,12 @@
 # IntroToGIS
 Rutgers SEM PUB INFORM Week 11 Assignment 8
-<p>
-    <div style="width:100%; height:350px;border:none;text-align:center">
-		<iframe allowtransparency="yes" frameborder="0" width="300" height="300" src="airport_distribution.html"/>
-</p>
+<svg width="100" height="100" xmlns="airport_distribution.html">
+<foreignObject width="100" height="100">
+    <div xmlns="airport_distribution.html">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
